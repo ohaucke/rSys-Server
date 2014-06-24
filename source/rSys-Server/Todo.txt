@@ -1,0 +1,48 @@
+﻿// todo
+Sensors
+- Hardware sensors (temperature)	
+
+// maybe
+Swap
+- total
+- used
+- free
+
+// done
+System
+- CPU core/sockets
+- OS, x86/x64 OS version
+- DateTime
+
+CPU
+- user
+- system
+- idle
+
+Load
+- 1 min
+- 5 min
+- 15 min
+
+Memory
+- total
+- used
+- free
+
+Network
+- Rx/s (Receive bytes Delta)
+- Tx/s (Transmitted bytes Delta)
+- Total Rx
+- Total Tx
+
+Disk
+- In/s
+- Out/s
+
+Mount
+- Used
+- Total
+
+Processes
+- Process count
+- Process list
