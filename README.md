@@ -200,7 +200,7 @@ Output of the current development state
 
 ## General
 Name: rSys-Server  
-Description: Remote system monitoring server 
+Description: Remote system monitoring server  
 Version: 0.1 (Beta)  
 Author: Oliver Haucke  
 Author URI: http://gadean.de/  
